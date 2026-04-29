@@ -52,7 +52,7 @@ RagOllamaWithUI/
 
 ```
 git clone https://github.com/srinivasw54/rag-ollama-project.git
-cd rag-ollama-project
+cd rag-ollama-project/RAGOllama
 ```
 
 ---
